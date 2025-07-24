@@ -1,5 +1,6 @@
 streamlit
-pymupdf
-Pillow
 opencv-python
+Pillow
+numpy
 pandas
+PyPDF2
